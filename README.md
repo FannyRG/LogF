@@ -1,1 +1,1 @@
-"Aplicación login de facebook" 
+"Aplicación login" 
