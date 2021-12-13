@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LogFB</string>
+    <string name="facebook_app_id">390985895782522</string>
+    <string name="fb_login_protocol_scheme">fb390985895782522</string>
+
+
+
+    <string name="youtube_url">https://youtu.be/EPOIS5taqA8</string>
+</resources>
